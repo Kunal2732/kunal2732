@@ -28,7 +28,6 @@
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/88850c60-ca56-46b3-a0b5-904f3892c8ae" /> Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal2732&show_icons=true&theme=tokyonight" alt="Github Stats" height="160"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal2732&theme=tokyonight" alt="Github Streak" height="160"/>
 </p>
 
 
