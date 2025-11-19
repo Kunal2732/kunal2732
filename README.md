@@ -12,23 +12,27 @@
 
 ---
 ### 🛠️ Tech Stack
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>  
-<img src="https://img.shields.io/badge/HTML-%23ED8B00.svg?style=for-the-badge&logo=HTML&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS-%23ED8B00.svg?style=for-the-badge&logo=css&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-%23ED8B00.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+</p>
+
 
 ---
 
 
-SQL optimization
+### 🤝 Connect With Me
 
-Web Dev improvements
+<p align="center">
+  <a herf="https://www.linkedin.com/in/kunal-goyal-617b79358" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a herf="mailto:cancer.kunalgoyal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white"/></a>
+</p>  
 
-🤝 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/kunal-goyal-617b79358/
-📧 Email: cancer.kunalgoyal@gmail.com
-
+---
 ⭐ Thanks for visiting my profile! Feel free to check out my repositories and drop a star if you like my work.
